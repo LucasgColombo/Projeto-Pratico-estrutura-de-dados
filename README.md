@@ -29,4 +29,4 @@ As funções programa da primeira etapa incluem:
 6. Excluir um registro
 
 
-é importante lebrar que ambas as etapas necessitam do arquivo disponivilizado no drive acima.
+é importante lebrar que ambas as etapas necessitam do arquivo disponibilizado no drive acima.
